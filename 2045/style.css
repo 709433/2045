@@ -9,7 +9,7 @@ a {
   color:#242121;
 }
 .banner {
-  background-image: url("img/1.jpg");
+  background-image: url("img/sein2.jpg");
   background-size: cover;
   height: 400px;
   width: auto;
@@ -49,7 +49,7 @@ a {
   min-height: 500px;
   width:70%;
   float: left;
-  background-color: white;
+  background-color: pink;
   font-size: 20px;
   font-family: 나눔고딕;
   color: #333333;
